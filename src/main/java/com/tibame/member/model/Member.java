@@ -1,7 +1,7 @@
 package com.tibame.member.model;
 
 public class Member {
-	private Integer memId;
+	private Integer ooo;
 	private String memName;
 	
 	private String password;
